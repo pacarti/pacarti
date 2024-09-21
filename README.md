@@ -1,5 +1,14 @@
-## Hi there 👋
+## Hi there. I'm Artur 👋
 
+* 📔 Bachelor of Engineering in Technical IT & Telecommunications
+* 💼 Currently working in technical support
+* 🌱 Currently learning Python
+* 🔭 Interested in developing scripts that automatize the tasks that normally are tedious and time-consuming to do
+* 🐧 GNU/Linux user & enthusiast<br><br>
+* 📫 [E-mail address](mailto:apaciorkowski@protonmail.com) to contact<br><br>
+
+[![pacarti's GitHub stats](https://github-readme-stats.vercel.app/api?username=pacarti&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+  
 <!--
 **pacarti/pacarti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
