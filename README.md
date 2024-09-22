@@ -1,9 +1,9 @@
 ## Hi there. I'm Artur 👋
 
+* 🔭 Interested in developing scripts that automatize the tasks that normally are tedious and time-consuming to do
+* 🌱 Currently learning Python
 * 📔 Bachelor of Engineering in Technical IT & Telecommunications
 * 💼 Currently working in technical support
-* 🌱 Currently learning Python
-* 🔭 Interested in developing scripts that automatize the tasks that normally are tedious and time-consuming to do
 * 🐧 GNU/Linux user & enthusiast<br><br>
 * 📫 [E-mail address](mailto:apaciorkowski@protonmail.com) to contact<br><br>
 
