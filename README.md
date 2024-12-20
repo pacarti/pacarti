@@ -1,7 +1,7 @@
 ## Hi there. I'm Artur 👋
 
 * 🔭 Interested in developing scripts that automatize the tasks that normally are tedious and time-consuming to do
-* 🌱 Currently learning Python
+* 🌱 Currently learning Python & Web Development
 * 📔 Bachelor of Engineering in Technical IT & Telecommunications
 * 💼 Currently working in technical support
 * 🐧 GNU/Linux user & enthusiast<br><br>
