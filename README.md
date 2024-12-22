@@ -10,7 +10,7 @@
 <br><br>
 
 
-[![pacarti's GitHub stats](https://github-readme-stats-nu-rust.vercel.app/api?username=pacarti&count_private=true&show_icons=true&theme=react&include_all_commits=true)](https://github.com/pacarti/github-readme-stats)&ensp;[![Top Langs](https://github-readme-stats-nu-rust.vercel.app/api/top-langs/?username=pacarti&layout=donut&theme=react)](https://github.com/pacarti/github-readme-stats)
+[![pacarti's GitHub stats](https://github-readme-stats-pacartis-projects.vercel.app/api?username=pacarti&count_private=true&show_icons=true&theme=react&include_all_commits=true)](https://github.com/pacarti/github-readme-stats)&ensp;[![Top Langs](https://github-readme-stats-nu-rust.vercel.app/api/top-langs/?username=pacarti&layout=donut&theme=react)](https://github.com/pacarti/github-readme-stats)
   
 <!--
 **pacarti/pacarti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
