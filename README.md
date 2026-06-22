@@ -1,7 +1,7 @@
 ## Hi there. I'm Artur 👋
 
 * 🔭 Interested in developing scripts that automatize the tasks & creating and customizing websites
-* 🌱 Currently learning PLC Programming
+* 🌱 Currently learning PLC Programming & Python
 * 📔 Bachelor of Engineering in Technical IT & Telecommunications
 * 💼 Currently working in technical support
 * 🐧 GNU/Linux user & enthusiast<br><br>
