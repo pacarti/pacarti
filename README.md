@@ -1,9 +1,8 @@
 ## Hi there. I'm Artur 👋
 
 * 🔭 Interested in developing scripts that automatize the tasks & creating and customizing websites
-* 🌱 Currently learning PLC Programming & Python
+* 🌱 Currently developing my Python skills :)
 * 📔 Bachelor of Engineering in Technical IT & Telecommunications
-* 💼 Currently working in technical support
 * 🐧 GNU/Linux user & enthusiast<br><br>
 * 📫 [E-mail address](mailto:apaciorkowski@protonmail.com) to contact
 * 🖇️ [My LinkedIn Profile](https://linkedin.com/in/artur-paciorkowski)
